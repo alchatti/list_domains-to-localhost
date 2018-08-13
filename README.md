@@ -1,4 +1,4 @@
-# List of Domains resolves to localhost 
+# List of Domains that Resolves to 127.0.0.1 
 
 ## Information
 
