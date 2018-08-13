@@ -1,4 +1,4 @@
-# List of Domains that Resolves to 127.0.0.1 
+# List of Domains that resolves to 127.0.0.1 
 
 ## Information
 
