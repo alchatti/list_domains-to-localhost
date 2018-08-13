@@ -45,7 +45,7 @@ Any contributions welcome, could be by Pull request or by opening an issue with 
 
 ## 6. Change Log
 
-See [CHANGELOG](CHANGELOG)
+See [CHANGELOG](CHANGELOG.md)
 
 ## 7. License
 [MIT LICENSE](LICENSE)
