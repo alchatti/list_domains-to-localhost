@@ -6,7 +6,7 @@ This is a list of domains which resolves to 127.0.0.1 and easy to type can be us
 
 ## Notice
 
-I provide this list without any liability. Make sure to verify that they point actually to 127.0.0.1 before using them, including subdomains.
+This list is provided without any liability. Make sure to verify that they point actually to 127.0.0.1 before using them, including subdomains.
 
 ## Testing Commands
 
