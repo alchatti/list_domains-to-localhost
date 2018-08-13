@@ -36,16 +36,16 @@ ping test.localtest.me
 
 1. `localhst.co.uk`
 
-## <a name="contributing"></a> 5. Contributing
+## 5. Contributing
 
 Any contributions welcome, could be by Pull request or by opening an issue with subject containing [???] 
 
 - [ADD] for adding new domains
 - [RMV] for removing domains
 
-## <a name="changelog"></a> 6. Change Log
+## 6. Change Log
 
 See [CHANGELOG](CHANGELOG)
 
-## <a name="license"></a> 7. License
+## 7. License
 [MIT LICENSE](LICENSE)
