@@ -1,16 +1,14 @@
 # List of Domains that resolves to 127.0.0.1 
 
-## Information
+## 1. Information
 
 This is a list of domains which resolves to 127.0.0.1 and easy to type can be used for local development environment without the need to modify the OS host files. This help with wildcard subdomains without the need to edit the host files.
 
-## Notice
+## 2. Notice
 
 This list is provided without any liability. Make sure to verify that they point actually to 127.0.0.1 before using them, including subdomains.
 
-## Testing Commands
-
-- Windows, Linux, Mac OS 
+## 3. Testing Commands
 ```bash
 ping $domain
 ```
@@ -20,7 +18,7 @@ ping localtest.me
 ping test.localtest.me
 ```
 
-## The List
+## 4. The List
 
 1. `localtest.me` : [ http://readme.localtest.me/ ]
 
@@ -38,16 +36,16 @@ ping test.localtest.me
 
 1. `localhst.co.uk`
 
-## <a name="changelog"></a> Change Log
-
-See [CHANGELOG](CHANGELOG)
-
-## <a name="contributing"></a> 7. Contributing
+## <a name="contributing"></a> 5. Contributing
 
 Any contributions welcome, could be by Pull request or by opening an issue with subject containing [???] 
 
 - [ADD] for adding new domains
 - [RMV] for removing domains
 
-## <a name="license"></a> 8. License
+## <a name="changelog"></a> 6. Change Log
+
+See [CHANGELOG](CHANGELOG)
+
+## <a name="license"></a> 7. License
 [MIT LICENSE](LICENSE)
